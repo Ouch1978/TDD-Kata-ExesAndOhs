@@ -6,7 +6,7 @@ Examples input/output:
 
 `XO("ooxx") => true`
 
-`XO("xooxx") => false
+`XO("xooxx") => false`
 
 `XO("ooxXm") => true`
 
